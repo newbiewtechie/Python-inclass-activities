@@ -1,1 +1,2 @@
-print("I am Devanshi, How are you doing")
+age= 25
+print(age)
