@@ -6,7 +6,9 @@ is_student= True
 print("is_student = ", is_student, type(is_student))
 weight= 45.3
 print("weight =",weight, type(weight))
+
 print("AFTER TYPECASTING...")
+
 name= bool(name)
 print("name = ", name , type(name))
 age= float(age)
