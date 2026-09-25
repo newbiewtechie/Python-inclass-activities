@@ -6,4 +6,3 @@ if age>= 10 :
         print("Yourage is above 20, Kindly enter a valid age, between 10- 20 years" )
 else:
     print("Yourage is below 20 kindly enter a valid age between 1-020 years")
-    

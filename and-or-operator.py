@@ -3,13 +3,12 @@ b= 40
 c=0
 print("a=", a, "\nb=",b, "\nc=", c)
 if a and b and c :
-    print("All numbers have boolean vakue as True")
+    print("All numbers have boolean value as True")
 else:
     print("Atleast one number has boolean value as False")
-
-a=10
-b=-10
-c=0
+a= 10
+b= -10
+c= 0
 print("a=",a ,"\nb= ",b , "\nc=", c)
 if(a>0 or b>0):
     print("Either of the number is greater than 0")
